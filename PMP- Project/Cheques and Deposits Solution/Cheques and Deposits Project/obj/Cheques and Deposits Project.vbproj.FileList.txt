@@ -1,0 +1,15 @@
+bin\Debug\Cheques and Deposits Project.exe
+bin\Debug\Cheques and Deposits Project.pdb
+bin\Debug\Cheques and Deposits Project.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Cheques_and_Deposits_Project.chequesForm.resources
+obj\Debug\Cheques_and_Deposits_Project.LoginForm.resources
+obj\Debug\Cheques_and_Deposits_Project.MainForm.resources
+obj\Debug\Cheques_and_Deposits_Project.Resources.resources
+obj\Debug\Cheques and Deposits Project.vbproj.GenerateResource.Cache
+obj\Debug\Cheques and Deposits Project.exe
+obj\Debug\Cheques and Deposits Project.xml
+obj\Debug\Cheques and Deposits Project.pdb
+obj\Debug\Cheques_and_Deposits_Project.SplashScreenForm.resources
+bin\Debug\Banking System.mdb
+bin\Debug\Cheques and Deposits Project.exe.config

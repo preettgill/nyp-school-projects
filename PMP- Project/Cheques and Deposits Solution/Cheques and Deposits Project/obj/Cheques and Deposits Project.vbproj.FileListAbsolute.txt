@@ -1,0 +1,8 @@
+D:\WORK\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\bin\Debug\Cheques and Deposits Project.exe.config
+D:\WORK\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.exe
+D:\WORK\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.xml
+D:\WORK\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.pdb
+D:\NYP\YR1 SEM2\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\bin\Debug\Cheques and Deposits Project.exe.config
+D:\NYP\YR1 SEM2\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.exe
+D:\NYP\YR1 SEM2\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.xml
+D:\NYP\YR1 SEM2\IT1845 - PMP\PMP- Project\PMP- Project\Cheques and Deposits Solution\Cheques and Deposits Project\obj\Debug\Cheques and Deposits Project.pdb
