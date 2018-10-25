@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: PV320_Display - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSP29FF.tmp" with contents
+[
+/nologo /Gz /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/PV320_Display.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\user\Desktop\Harpreet Kaur - 071545Y\PV32015FEB\FINALE-15feb\PV320_Display _editedfeb15\EditCDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\user\AppData\Local\Temp\RSP29FF.tmp" 
+Creating temporary file "C:\Users\user\AppData\Local\Temp\RSP2A00.tmp" with contents
+[
+PVCOnnectDll.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/PV320_Display.pdb" /debug /machine:I386 /out:"Debug/PV320_Display.exe" /pdbtype:sept 
+".\Debug\CBinFile.obj"
+".\Debug\ColorDlg.obj"
+".\Debug\ColourChangerDlg.obj"
+".\Debug\DIB.obj"
+".\Debug\EditCDlg.obj"
+".\Debug\EditDlg.obj"
+".\Debug\MainFrm.obj"
+".\Debug\PV320_Display.obj"
+".\Debug\PV320_DisplayDoc.obj"
+".\Debug\PV320_DisplayView.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Threshold.obj"
+".\Debug\PV320_Display.res"
+]
+Creating command line "link.exe @C:\Users\user\AppData\Local\Temp\RSP2A00.tmp"
+<h3>Output Window</h3>
+Compiling...
+EditCDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+PV320_Display.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
